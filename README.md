@@ -1,4 +1,4 @@
-# Quantum Cricking Ebola
+# Quantum Cricking Ebola - QCE
 
 ## Native Pair-Tensor Silicon for Filovirus Therapeutics Discovery & Clinical Translation
 
